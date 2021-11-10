@@ -1,8 +1,6 @@
 PROGETTO TEAM 15
 
 --Samuele Crea
---Federica Bisso
---Samuele Pignone
 
 /* PARTE 1 */
 
