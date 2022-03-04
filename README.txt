@@ -1,6 +1,4 @@
-PROGETTO TEAM 15
-
---Samuele Crea
+Progetto Samuele Crea
 
 /* PARTE 1 */
 
